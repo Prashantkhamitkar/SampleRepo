@@ -1,0 +1,29 @@
+.LogoContainer{
+    margin-top: 0px;
+    width: 90%;
+margin-bottom: 30px;
+    
+}
+.TextHeading{
+    font-size: 17px;
+}
+.ListContent{
+    margin-top: 20px;
+}
+.LogoImage{
+    width: 50%;
+}
+.MainImageContainer{
+    width: 100%;
+}
+.MainImage{
+    width: 100%;
+}
+.MainContainer{
+    width: 95%;
+    margin-left: 10px; 
+}
+.TextContainer{
+    /* background-color: red; */
+
+}

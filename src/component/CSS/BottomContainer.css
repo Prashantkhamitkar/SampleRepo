@@ -1,0 +1,8 @@
+.BottomTextP{
+    margin-top: 20px;
+}
+.redPipe{
+    color: rgb(208, 2, 2); /* Set the color of the pipe to red */
+    margin-left: 5px; /* Adjust the spacing between the & symbol and the pipe */
+    margin-right: 5px;
+}

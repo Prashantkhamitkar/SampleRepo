@@ -1,0 +1,15 @@
+.ProductImage{
+    width: 80%;
+}
+.ProductText{
+    margin-top: 20px;
+}
+.borderstyle{
+    border: 1px solid rgb(219, 14, 14);
+    width: 95%;
+    padding: 0px 20px;
+
+}
+.TextParagraph{
+    font-size:15px;
+}

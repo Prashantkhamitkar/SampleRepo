@@ -1,0 +1,23 @@
+.Awardimage{
+width: 150%;
+object-fit: cover;
+margin-top: 130px;
+margin-left: 10px;
+}
+.AwardContainer{
+    width: 300px;
+}
+@media only screen and (max-width: 768px) {
+    .Awardimage{
+        width: 80%;
+        object-fit: cover;
+        margin-top: 60px;
+        margin-left: 20px;
+        justify-self: center;
+        align-self: center;
+        }
+        .AwardContainer{
+            width: 150px;
+            display: inline;
+        }
+  }
